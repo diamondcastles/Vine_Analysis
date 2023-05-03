@@ -2,13 +2,9 @@
 Does payment create a bias? Amazon Vine Program reviewers moreso than their unpaid reviewers? Transparency in marketing is of the utmost importance. In this analysis we are 
 looking to determine whether or not there is a bias between the Amazon Paid Vine Program reviewers and the Unpaid reviewers.
 
-<img src="paid_vine.png"
-     alt="Paid Vine Program Count"
-     style="float: left; margin-right: 10px;" />
+![alt](paid_vine.png)
 
- <img src="unpaid_vine.png"
-     alt="Unpaid Vine Program Count"
-     style="float: left; margin-right: 10px;" />
+![alt](unpaid_vine.png)
 
 ## How many Vine reviews and non-Vine reviews were there?
 In total, there were 1775 paid Vine reviews, and 77385 unpaid Vine reviews. This suggests that there are more unpaid Vine reviews, and suggests that regardless of pay, people
